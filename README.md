@@ -7,6 +7,8 @@ This is my DeepLearning Nanodegree project repository. All of my work will end u
 
 Unit 2 - Neural Networks Project: Predicting bike rentals
 
+This folder has the project for predicting bike rentals using a neural network 
+
 Unit 3 - Convulutional neural networks : Dog breed classifier 
 
 This folder contains the project for identifying dog breeds from photos. It can also be used on human images to show what dog breed is closest to what is shown in the image. 
