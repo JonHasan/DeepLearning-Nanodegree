@@ -20,3 +20,7 @@ This folder contains the project for generating a tv script using a text corpus 
 Unit 4 - Generative Adversarial Networks
 
 This folder contains the project for generating faces. 
+
+Unit 5 - Model Deployment
+
+This folder contains the project for creating a sentiment analysis model and then deploying it on sagemaker
