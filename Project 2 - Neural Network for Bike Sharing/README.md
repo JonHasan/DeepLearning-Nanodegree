@@ -13,4 +13,8 @@ This project will test the users ability to create a simple neural net to draw p
 
 I had to create a neural network from the ground up and use the gadient descent, backprop etc to get the code to work. 
 
+This is the final result 
+
+![image]('NeuralNetworkBikeSharing.PNG')
+
 
