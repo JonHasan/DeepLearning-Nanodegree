@@ -1,4 +1,4 @@
-Project 1 Neural Networks - Predicting Bike-Share Patterns
+# Project 1 Neural Networks - Predicting Bike-Share Patterns
 
 Here is the introduction from the project page
 
@@ -9,4 +9,8 @@ You'll also get to see how to apply these networks to solve real prediction prob
 The data comes from the UCI Machine Learning Database."
 
 
-This project will test the users ability to create a simple neural net to draw predictions from data. 
+This project will test the users ability to create a simple neural net to draw predictions from data.
+
+I had to create a neural network from the ground up and use the gadient descent, backprop etc to get the code to work. 
+
+
