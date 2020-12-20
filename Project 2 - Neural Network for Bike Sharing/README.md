@@ -15,6 +15,6 @@ I had to create a neural network from the ground up and use the gadient descent,
 
 This is the final result 
 
-![image]('NeuralNetworkBikeSharing.PNG')
+![image](NeuralNetworkBikeSharing.PNG)
 
 
