@@ -17,13 +17,22 @@ I had to create a neural network from the ground up and use the gadient descent,
 
 ### Step 1 : Sigmoid function 
 
-It is first necessary to define the code for the sigmoid function. This will be used to transform any real valued input into a probability. This will determine the chance that a bike needs to be used. The equation is as follows:
+It is first necessary to define the code for the sigmoid function. More specifically its called the logistic sigmoid function. This will be used to transform any real valued input into a probability. This will determine the chance that a bike needs to be used. The equation is as follows:
 
-\begin{equation}
 S = 1/(1+e^-x)
-\end{equation}
+
+![image](SigmoidGraph.PNG)
 
 This was easy to define. There was a choice of using a lambda but I opted for the other option. 
+
+### Step 2: Define Forward Pass
+
+I need to now define the forward pass for backpropagation. 
+
+### Step 3: Define Backward Propagation
+
+### Step 4: Run the actual network 
+
 
 
 This is the final result 
