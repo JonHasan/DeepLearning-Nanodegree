@@ -35,7 +35,7 @@ I need to now define the forward pass for backpropagation.
 
 
 
-This is the final result 
+This is the final result. It looks like the neural network is accurately predicting when the bike usage spikes. 
 
 ![image](NeuralNetworkBikeSharing.PNG)
 
