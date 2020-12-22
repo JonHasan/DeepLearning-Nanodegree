@@ -8,6 +8,8 @@ This code has you creating a generator and a discriminator network. The generato
 
 ![image](GANs.png)
 
+-Source: https://sthalles.github.io/intro-to-gans/
+
 If you would be interested in learning more about GANs, It would be advised to look at the following [Paper](https://arxiv.org/pdf/1406.2661.pdf). It was spearheaded by a scientist named Ian Goodfellow and details how two networks are trying to beat each other and results in the creation of images based of a training set that seem to be indistinguishable from the real thing. 
 
 ## Code instructions
