@@ -9,6 +9,16 @@ This code has you creating a generator and a discriminator network. The generato
 ![image](GANs.png)
 
 
+
 ## Code instructions
 
-Simply download the repository and go into the notebook. It would be recommended to use a GPU for the training. 
+1. Clone the repository and navigage to the downloaded folder.
+	```
+		git clone https://github.com/JonHasan/DeepLearning-Nanodegree/tree/master/Project%205%20-%20Generating%20Faces
+		cd Face-Generation
+	```
+2. Open the `dlnd_face_generation.ipynb` file
+	```
+		jupyter notebook dlnd_face_generation.ipynb
+	```
+3. Read and follow the instructions. 
