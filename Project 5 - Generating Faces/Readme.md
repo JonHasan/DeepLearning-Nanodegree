@@ -8,7 +8,9 @@ This code has you creating a generator and a discriminator network. The generato
 
 ![image](GANs.png)
 
+If you would be interested in learning more about GANs, It would be advised to look at the following paper
 
+![Paper](https://arxiv.org/pdf/1406.2661.pdf)
 
 ## Code instructions
 
