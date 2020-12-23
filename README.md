@@ -9,6 +9,8 @@ Unit 2 - Neural Networks Project: Predicting bike rentals
 
 This folder has the project for predicting bike rentals using a neural network. I needed to implement the backpropagation algorithm, the forward and backward pass, as well as the sigmoid function.  
 
+![image]()
+
 Unit 3 - Convulutional neural networks : Dog breed classifier 
 
 This folder contains the project for identifying dog breeds from photos. It can also be used on human images to show what dog breed is closest to what is shown in the image. This project had me developing a CNN network. 
