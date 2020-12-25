@@ -10,10 +10,9 @@ image captioning.
 
 They have something referred to as a memory. That is to say that the results of hidden layer calculations can be used to process future inputs. Humans see sequences every day and as such in order to effectively recreate human capabilities in a computer, one needs to be able to impart memory to a piece of code. RNN's do a great job of being able to predict the future from the past. 
 
+##Math Explanation
 
-## Code Explanation 
+## Code Instructions
 
 
-
-
-Just download the repo and run the files on your local computer. Its recommended though to use google collaboratory as there is a free GPU that can be used there. 
+Just download the repo and run the files on your local computer. This project will guide you step by step to making your own neural network. Its recommended though to use google collaboratory as there is a free GPU that can be used there. 
