@@ -7,7 +7,8 @@
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+
+This Convolutional Network (CNN) prject focuses on creating a pipeline that can be used in a website or mobile app to process real-world, user-supplied images. Given the image of a dog, the algorithm will identify an estimate of the canines breed. If supplied an image of a human, the code will identify the resembling dog breed. 
 
 ![Sample Output][image1]
 
