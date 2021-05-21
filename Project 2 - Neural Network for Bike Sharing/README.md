@@ -21,7 +21,7 @@ It is first necessary to define the code for the sigmoid function. More specific
 
  S</sub>(x) = 1/ (1 + e^-x)
 
-![image](SigmoidGraph.PNG)
+![image](Images/SigmoidFunction.svg)
 
 This was easy to define. There was a choice of using a lambda but I opted for the other option. 
 
