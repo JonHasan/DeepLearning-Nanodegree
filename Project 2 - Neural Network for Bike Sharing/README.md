@@ -27,7 +27,7 @@ This was easy to define. There was a choice of using a lambda but I opted for th
 
 ### Step 2: Define Forward Pass
 
-I need to now define the forward pass for backpropagation. 
+In order to get started, it is first necessary to perform forward propagation.  
 
 ### Step 3: Define Backward Propagation
 
