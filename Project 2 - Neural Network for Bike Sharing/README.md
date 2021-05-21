@@ -19,7 +19,7 @@ I had to create a neural network from the ground up and use the gadient descent,
 
 It is first necessary to define the code for the sigmoid function. More specifically its called the logistic sigmoid function. This will be used to transform any real valued input into a probability. This will determine the chance that a bike needs to be used. The equation is as follows:
 
- S</sub>(x) = 1/ (1 + &e^-x)
+ S</sub>(x) = 1/ (1 + e^-x)
 
 ![image](SigmoidGraph.PNG)
 
