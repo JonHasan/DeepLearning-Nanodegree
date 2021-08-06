@@ -29,7 +29,33 @@ This was easy to define. There was a choice of using a lambda but I opted for th
 
 In order to get started, it is first necessary to perform forward propagation.  
 
+So what is forward propagation?
+
+Its the operation that applies the weights of the neurons in the hidden layers to the input to create an ouptut. 
+
+Lets say we had a column vector with a bias unit as follows : [x1; x2; 1] 
+
+Then matrices, W1 and W2 with weights [W11, W12; W21, W22; W31, W32] and [W22; W11; W33] 
+
+
+It is first necessary to multiply the input by the matrix W1. Then its necessary to apply an activation function so that the results are between 0 and 1. 
+These results are then multiplied with the new matrix W2. This result then undergoes the activation function again in order to modify the results to be between 0 and 1. 
+The final result acquired is y hat. The result that our network generates. 
+
+This is the first result we need. Now it is time to move on to the calculation of the error function.
+
+### Step 3: Calculating the error function
+So now we have y hat. How do we know if this result is correct though? Well, it is necessary to compare the network result to the ground truth of y. This is where the error function comes into action. 
+
+The error function is given as follows 
+
+
+
 ### Step 3: Define Backward Propagation
+
+So now we have y hat. How do we know if this result is correct though? Well, it is necessary to compare the network result to the ground truth of y. This is where backpropagation comes into action. 
+
+
 
 ### Step 4: Train network
 
