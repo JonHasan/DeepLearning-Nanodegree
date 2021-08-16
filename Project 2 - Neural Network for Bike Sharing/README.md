@@ -49,11 +49,22 @@ So now we have y hat. How do we know if this result is correct though? Well, it 
 
 The error function is given as follows 
 
+E(w) = -1/m * sum(yln(yi) - (1 - y)*ln(1 - yi))
+
+y is the true value, yi is the predicted value
+
+This error function basically adds up all of the errors resulting from the differences between the prediction and the true value. 
+
+If you were to take the derivative of the error function with respect to each of the weights you would notice that the further the prediction was from the true value, the 
+larger the gradient. The closer to the true value the prediction is, the smaller the gradient. 
 
 
 ### Step 3: Define Backward Propagation
 
 So now we have y hat. How do we know if this result is correct though? Well, it is necessary to compare the network result to the ground truth of y. This is where backpropagation comes into action. 
+
+So there are errors that are acquired for each neuron in the network. This is placed in an error matrix which is then used to update the weights of the neurons. The neurons
+are then ready to begin the process again. 
 
 
 
