@@ -58,6 +58,8 @@ This error function basically adds up all of the errors resulting from the diffe
 If you were to take the derivative of the error function with respect to each of the weights you would notice that the further the prediction was from the true value, the 
 larger the gradient. The closer to the true value the prediction is, the smaller the gradient. 
 
+The error function in this case is just the actual value minus the prediction. 
+
 
 ### Step 3: Define Backward Propagation
 
@@ -77,9 +79,12 @@ The training took about 3-4 minutes to train. It acquired a training loss of .05
 ### Step 4: Run the actual network 
 
 
-
 This is the final result. It looks like the neural network is accurately predicting when the bike usage spikes. 
 
 ![image](NeuralNetworkBikeSharing.PNG)
+
+#### Model results intepretation: 
+
+It seems to me that the model does very well in predicting bike sharing on days that are not holidays. It looks like the dataset this network trained on does not have enough data on bike sharing for holidays. 
 
 
